@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+@import "materialize";
+@import "materialize/extras/nouislider";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+body {
+  background-color: #f5f5f5;
+}
